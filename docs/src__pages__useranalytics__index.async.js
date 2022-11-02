@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[265],{250:function(l,t,n){n.r(t),n.d(t,{default:function(){return s}});var a=n(67294),e={title:"title___ogTuV"},u=n(85893);function s(){return(0,u.jsx)("div",{children:(0,u.jsx)("h1",{className:e.title,children:"Page index"})})}}}]);

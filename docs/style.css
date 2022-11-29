@@ -73,16 +73,6 @@
 }
 
 .spinner-box2 {
-  float: left;
-  top: 0;
-  width: 100%;
-  max-width : 1440px;
-  margin: 0 auto;
-  text-align: center;
-  height: auto;
-  /* display: flex; */
-  justify-content: right;
-  align-items: right;
   z-index: 100000;
 }
 
